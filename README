@@ -1,6 +1,6 @@
 DriveAssit is a project for evaluating driver drowsiness and distracted and impaired driving on the road during my PhD. 
 
-It's a two monocular cameras-based system consisting of Lane detection and tracking system, Face detection and tracking system, and Fusion center based on evidence theory. 
+It's a two-monocular-cameras-based system consisting of Lane detection and tracking system, Face detection and tracking system, and Fusion center based on evidence theory. 
 
 The project is developed for the object of scientific research. If interested, please allude to my contributions (dblp indexed):
 
